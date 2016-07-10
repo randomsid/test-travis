@@ -1,3 +1,3 @@
-echo "ENV:"
+echo "STARENV:"
 env
 echo "ENDOFENV"
